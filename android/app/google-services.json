@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "808637573756",
+    "project_id": "ultah-eafd7",
+    "storage_bucket": "ultah-eafd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808637573756:android:1b14c0e1ccec37b968b7f9",
+        "android_client_info": {
+          "package_name": "com.example.birthdayapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808637573756-qscjbdbj1gncb52bjcrcm1n2b2i8v2rv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbZ0FAIKlsCWh4k0aaNy1SnKQtSvUng2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808637573756-qscjbdbj1gncb52bjcrcm1n2b2i8v2rv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
